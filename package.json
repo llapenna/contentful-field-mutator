@@ -1,7 +1,7 @@
 {
-  "name": "node-typescript-starter",
-  "version": "1.0.0",
-  "description": "An starter template for NodeJS/TypeScript.",
+  "name": "contentful-field-mutator",
+  "version": "0.0.0",
+  "description": "A contentful-management API implementation to quickly mutate content-type's fields.",
   "main": "dist/index.mjs",
   "scripts": {
     "build": "tsup",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/llapenna/node-typescript-starter.git"
+    "url": "git+https://github.com/llapenna/contentful-field-mutator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/llapenna/node-typescript-starter/issues"
+    "url": "https://github.com/llapenna/contentful-field-mutator/issues"
   },
-  "homepage": "https://github.com/llapenna/node-typescript-starter#readme",
+  "homepage": "https://github.com/llapenna/contentful-field-mutator#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.7.2",
     "@commitlint/config-conventional": "^17.7.0",
