@@ -1,2 +1,3 @@
-# node-typescript-starter
-An starter template for NodeJS/TypeScript.
+# Contentful Field Mutator
+
+A contentful-management API implementation to quickly mutate content-type's fields.
